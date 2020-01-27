@@ -13,15 +13,5 @@ Arduino Yun is mounted on the bot with a garbage collector which has a shaft bui
 
 Dustbin
 Two dustbins were used in this project each made out of cardboard. Inside each dustbin there is a ultrasonic sensor and a servo motor. Ultrasonic sensor is used to update the amount of garbage in the bin. The servo is used to open the lid and the garbage fell down on the collector. The dustbins were mounted upside down so that the openings were at the bottom.
-
-Line
-
-                    Bin 2             Bin 1
-----------------------|-----------------|------------------
-|          <-                 <-             <-           |
-|                                                         |
-|          ->         Direction of Bot       ->           |
------------------------------|-----------------------------
-                         Dumping Yard
                          
 Authors : Shaikh Sahil Ahmed, Sampat Ghosh, Rohit Meshram
