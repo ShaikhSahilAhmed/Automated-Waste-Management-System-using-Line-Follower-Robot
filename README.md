@@ -8,8 +8,10 @@ Components used:
 3. Ultrasonic Sensor
 4. Servo Motor
 5. Line Follower Bot
-6. Design
-7. Line Follower
+
+Design
+
+Line Follower
 
 Arduino Yun is mounted on the bot with a garbage collector which has a shaft built with it. This shaft is lifted using the servo motor to dump waste at dumping yard.
 
