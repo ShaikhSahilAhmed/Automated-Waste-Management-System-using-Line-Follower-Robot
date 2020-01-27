@@ -2,13 +2,15 @@
 The primary goal of the project is to implement a automated garbage collection. This project is done as part of IT825 Designing of Internet of Things taught at National Institute of Technology Karnataka.
 
 Components used:
-Arduino Yun
-NodeMCU
-Ultrasonic Sensor
-Servo Motor
-Line Follower Bot
-Design
-Line Follower
+
+1. Arduino Yun
+2. NodeMCU
+3. Ultrasonic Sensor
+4. Servo Motor
+5. Line Follower Bot
+6. Design
+7. Line Follower
+
 Arduino Yun is mounted on the bot with a garbage collector which has a shaft built with it. This shaft is lifted using the servo motor to dump waste at dumping yard.
 
 Dustbin
