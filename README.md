@@ -31,4 +31,4 @@ The dustbins were mounted upside down so that the openings were at the bottom.
                          Dumping Yard
 ```
 
-Authors : [Shaikh Sahil Ahmed](https://github.com/ShaikhSahilAhmed), [Sampat Ghosh](https://github.com/sampatghosh), Rohit Meshram
+Authors : [Shaikh Sahil Ahmed](https://github.com/ShaikhSahilAhmed), [Sampat Ghosh](https://github.com/sampatghosh), Rohit Meshram(https://github.com/meshramrohit121)
